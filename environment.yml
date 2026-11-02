@@ -1,0 +1,17 @@
+name: dip-th2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.26
+  - scipy>=1.12
+  - matplotlib>=3.8
+  - pillow>=10.2
+  - scikit-image>=0.22
+  - opencv>=4.9
+  - ipykernel
+  - jupyterlab
+  - notebook
+  - tqdm
+
